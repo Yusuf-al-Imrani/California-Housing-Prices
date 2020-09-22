@@ -1,4 +1,4 @@
-# California-Housing-Prices
+# California Housing Prices
 Data from the 1990 California census to build a model of housing prices in the state
 
 The task is to use California census data to build a model of housing prices in the state.
